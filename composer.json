@@ -1,10 +1,10 @@
 {
-    "name": "jgiberson/migrations-boilerplate",
+    "name": "jeremygiberson/migrations-boilerplate",
     "description": "doctrine migrations demo",
     "authors": [
         {
             "name": "Jeremy Giberson",
-            "email": "jeremyg@webpt.com"
+            "email": "jeremygiberson@gmail.com"
         }
     ],
     "minimum-stability": "dev",

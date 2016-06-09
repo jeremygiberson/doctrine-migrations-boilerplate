@@ -31,19 +31,19 @@ the file to `doctrine-config.php` and change values to match your requirements.
 ### Status
 Check migrations status
 
-`vendor/bin/doctrine-migration migrations:status`
+`vendor/bin/doctrine-migrations migrations:status`
 
 ### Migrate
 Run pending migrations
 
-`vendor/bin/doctrine-migration migrations:migrate`
+`vendor/bin/doctrine-migrations migrations:migrate`
 
 ### Diff
 Generate a migration file by comparing current schema to your model definitions.
 
-`vendor/bin/doctrine-migration migrations:diff`
+`vendor/bin/doctrine-migrations migrations:diff`
 
 ### Other Commands
 There are other commands available. You can see the list by running doctrine-migration without arguments. 
 
-`vendor/bin/doctrine-migration`
+`vendor/bin/doctrine-migrations`

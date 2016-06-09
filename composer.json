@@ -1,6 +1,6 @@
 {
-    "name": "jeremygiberson/migrations-boilerplate",
-    "description": "doctrine migrations demo",
+    "name": "jeremygiberson/doctrine-migrations-boilerplate",
+    "description": "Doctrine ORM & Doctrine Migrations project w/ configuration and wiring. Going through the documentation for either project and putting them together can be a pain the first few times. This project provides the end result as sometimes a working example is better documentation.",
     "authors": [
         {
             "name": "Jeremy Giberson",

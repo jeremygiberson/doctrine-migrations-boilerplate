@@ -21,7 +21,6 @@ Use composer to create a new project based off this boilerplate.
 ```
 composer create-project jeremygiberson/doctrine-migrations-boilerplate my-project
 cd my-project
-composer install
 ```
 
 ### Overrides

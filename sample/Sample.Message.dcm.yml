@@ -1,0 +1,13 @@
+Sample\Message:
+  type: entity
+  id:
+      id:
+        type: integer
+        generator:
+          strategy: AUTO
+  fields:
+    text:
+      length: 140
+    postedAt:
+      type: datetime
+      column: posted_at

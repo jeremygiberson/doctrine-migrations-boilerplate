@@ -1,0 +1,20 @@
+{
+    "name": "jgiberson/migrations-boilerplate",
+    "description": "doctrine migrations demo",
+    "authors": [
+        {
+            "name": "Jeremy Giberson",
+            "email": "jeremyg@webpt.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "doctrine/orm": "^2.5",
+        "doctrine/migrations": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sample\\": "sample/"
+        }
+    }
+}
